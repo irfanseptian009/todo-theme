@@ -13,7 +13,7 @@ if your todo max 10 you can click todo for deferent theme and then rederect to s
 Clone the repository:
 
 Bash
-git clone https://github.com/irfanseptian009/todo-amazinglyfy
+git clone https://github.com/irfanseptian009/todo-theme
 
 License
 This project is licensed under the MIT License.
